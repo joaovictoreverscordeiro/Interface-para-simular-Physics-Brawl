@@ -15,7 +15,7 @@
 
 6. A coluna 'resp' deve ser preenchida com a resposta numérica de cada questão.
    Casas decimais devem ser representadas com pontos!! ex: 3,20 vai fazer o código travar, 3.20 não;
-  7. Na Physics Brawl o número de algarismos significativos importa bastante então as respostas devem ser inseridas olhando
+  7. Na Physics Brawl o número de algarismos significativos importa bastante, então as respostas devem ser inseridas olhando
 	     pra isso;
   8. Notação científica é representada usando "e". ex: 3.10*10^4 = 3.10e4. "*" é multiplicação.
 
